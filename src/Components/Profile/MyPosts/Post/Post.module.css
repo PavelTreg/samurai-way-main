@@ -1,0 +1,8 @@
+.item {
+    color: red;
+}
+.item img {
+    width: 150px;
+    height: 100px;
+    border-radius: 100px;
+}
